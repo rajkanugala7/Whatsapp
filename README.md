@@ -1,2 +1,2 @@
 # Whatsapp
-Node-react-mongo chatting app
+Node-react-mongo chatting app called Whatsapp
